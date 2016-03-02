@@ -2,5 +2,5 @@
     <string name="app_name">Smart Thermostat</string>
 
     <string name="dummy_button">Dummy Button</string>
-    <string name="temperature">70°</string>
+    <string name="temperature">72°</string>
 </resources>

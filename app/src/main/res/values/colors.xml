@@ -9,6 +9,12 @@
     <color name="heatingText">#DDDDDD</color>
     <color name="cooling">#3F51B5</color>
     <color name="coolingText">#DDDDDD</color>
+    <color name="history">#009000</color>
+    <color name="historyText">#DDDDDD</color>
+    <color name="schedule">#C27219</color>
+    <color name="scheduleText">#CCCCCC</color>
+    <color name="settings">#5E0482</color>
+    <color name="settingsText">#CCCCCC</color>
 
     <color name="black_overlay">#66000000</color>
 </resources>
